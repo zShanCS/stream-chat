@@ -2,6 +2,8 @@
 
 This readme file provides instructions for running the Streamlit app "Stream Chat" and highlights the steps required to set up the application environment. Please follow the guidelines below to get the app up and running on your local machine.
 
+![Screenshot](./media/s1.png)
+
 ## Prerequisites
 
 Before running the Streamlit app, ensure you have the following components installed:
