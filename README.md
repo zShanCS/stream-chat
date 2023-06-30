@@ -67,7 +67,7 @@ This will start the app, and you should be able to access it by opening your web
 ## Additional Information
 
 - The Streamlit app is configured to use the `OPENAI_API_KEY` environment variable for security purposes. Please ensure that you keep this key confidential and avoid sharing it with others.
-- If you encounter any issues or have questions about the app, feel free to reach out to the project maintainers at `maintainer@example.com`.
 
-Enjoy using "Stream Chat" with Streamlit! If you have any feedback or suggestions, we'd love to hear from you.
+
+Enjoy using "Stream Chat" with Streamlit! If you have any feedback or suggestions, we'd love to hear from you: email at mahmad.zeeshan72@gmail.com .
 "# stream-chat" 
